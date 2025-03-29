@@ -10,7 +10,7 @@ This project evaluates and compares different machine learning models (KNN, Deci
 
 ```plaintext
 Code Project/
-├── dataset/                         # Raw and processed datasets
+├── dataset/                         # Datasets
 │   ├── Breast_Cancer_Dataset/
 │   │   └── wdbc.data
 │   ├── Car_Evaluation_Dataset/
