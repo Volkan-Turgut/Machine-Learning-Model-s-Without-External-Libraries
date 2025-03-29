@@ -1,0 +1,276 @@
+# Breast Cancer Wisconsin (Diagnostic)
+
+KNN Classifier Accuracy with k=1: 93.86%
+KNN Classifier Accuracy with k=2: 92.98%
+KNN Classifier Accuracy with k=3: 95.61%
+KNN Classifier Accuracy with k=4: 94.74%
+KNN Classifier Accuracy with k=5: 94.74%
+KNN Classifier Accuracy with k=6: 93.86%
+KNN Classifier Accuracy with k=7: 92.11%
+
+Best k: 3 with Accuracy: 95.61%
+
+Max Depth Tried: 1, Actual Depth: 1, Accuracy: 90.35%
+Max Depth Tried: 2, Actual Depth: 2, Accuracy: 92.11%
+Max Depth Tried: 3, Actual Depth: 3, Accuracy: 92.98%
+Max Depth Tried: 4, Actual Depth: 4, Accuracy: 93.86%
+Max Depth Tried: 5, Actual Depth: 5, Accuracy: 93.86%
+Max Depth Tried: 6, Actual Depth: 5, Accuracy: 93.86%
+
+Max Possible Depth is: 5
+
+Best Depth: 4 with Accuracy: 93.86%
+
+Linear Regression Classification MSE: 0.13
+Rounded Linear Regression Classification Accuracy: 82.46%
+Logistic Regression Accuracy: 96.49%
+Decision Tree Classification Accuracy: 93.86%
+KNN Classification Accuracy: 95.61%
+Bayessian Classifier Accuracy: 92.11%
+
+# Car Evaluation
+
+KNN Classifier Accuracy with k=1: 87.46%
+KNN Classifier Accuracy with k=2: 90.91%
+KNN Classifier Accuracy with k=3: 93.73%
+KNN Classifier Accuracy with k=4: 93.73%
+KNN Classifier Accuracy with k=5: 96.55%
+KNN Classifier Accuracy with k=6: 96.24%
+KNN Classifier Accuracy with k=7: 96.87%
+
+Best k: 7 with Accuracy: 96.87%
+
+Max Depth Tried: 1, Actual Depth: 1, Accuracy: 76.49%
+Max Depth Tried: 2, Actual Depth: 2, Accuracy: 80.25%
+Max Depth Tried: 3, Actual Depth: 3, Accuracy: 85.27%
+Max Depth Tried: 4, Actual Depth: 4, Accuracy: 91.54%
+Max Depth Tried: 5, Actual Depth: 5, Accuracy: 94.98%
+Max Depth Tried: 6, Actual Depth: 5, Accuracy: 94.98%
+
+Max Possible Depth is: 5
+
+Best Depth: 5 with Accuracy: 94.98%
+
+Linear Regression Classification MSE: 0.14
+Rounded Linear Regression Classification Accuracy: 77.43%
+Logistic Regression Accuracy: 76.49%
+Decision Tree Classification Accuracy: 94.98%
+KNN Classification Accuracy: 96.87%
+Bayessian Classifier Accuracy: 84.64%
+
+# Mushroom
+
+KNN Classifier Accuracy with k=1: 100.00%
+KNN Classifier Accuracy with k=2: 100.00%
+KNN Classifier Accuracy with k=3: 100.00%
+KNN Classifier Accuracy with k=4: 100.00%
+KNN Classifier Accuracy with k=5: 100.00%
+KNN Classifier Accuracy with k=6: 100.00%
+KNN Classifier Accuracy with k=7: 100.00%
+
+Best k: 1 with Accuracy: 100.00%
+
+Max Depth Tried: 1, Actual Depth: 1, Accuracy: 98.95%
+Max Depth Tried: 2, Actual Depth: 2, Accuracy: 99.57%
+Max Depth Tried: 3, Actual Depth: 3, Accuracy: 99.82%
+Max Depth Tried: 4, Actual Depth: 4, Accuracy: 100.00%
+Max Depth Tried: 5, Actual Depth: 4, Accuracy: 100.00%
+
+Max Possible Depth is: 4
+
+Best Depth: 4 with Accuracy: 100.00%
+
+Linear Regression Classification MSE: 0.13
+Rounded Linear Regression Classification Accuracy: 81.35%
+Logistic Regression Accuracy: 91.88%
+Decision Tree Classification Accuracy: 100.00%
+KNN Classification Accuracy: 100.00%
+Bayessian Classifier Accuracy: 91.75%
+
+
+# Robot Execution Failures (LP1)
+
+KNN Classifier Accuracy with k=1: 62.50%
+KNN Classifier Accuracy with k=2: 37.50%
+KNN Classifier Accuracy with k=3: 37.50%
+KNN Classifier Accuracy with k=4: 37.50%
+KNN Classifier Accuracy with k=5: 37.50%
+KNN Classifier Accuracy with k=6: 37.50%
+KNN Classifier Accuracy with k=7: 37.50%
+
+Best k: 1 with Accuracy: 62.50%
+
+
+Max Depth Tried: 1, Actual Depth: 1, Accuracy: 37.50%
+Max Depth Tried: 2, Actual Depth: 2, Accuracy: 62.50%
+Max Depth Tried: 3, Actual Depth: 2, Accuracy: 62.50%
+
+Max Possible Depth is: 2
+
+Best Depth: 2 with Accuracy: 62.50%
+
+Linear Regression Classification MSE: 1.04
+Rounded Linear Regression Classification Accuracy: 37.50%
+Logistic Regression Accuracy: 62.50%
+Decision Tree Classification Accuracy: 62.50%
+KNN Classification Accuracy: 62.50%
+Bayessian Classifier Accuracy: 100.00%
+
+
+# Robot Execution Failures (LP2)
+
+KNN Classifier Accuracy with k=1: 50.00%
+KNN Classifier Accuracy with k=2: 33.33%
+KNN Classifier Accuracy with k=3: 33.33%
+KNN Classifier Accuracy with k=4: 33.33%
+KNN Classifier Accuracy with k=5: 33.33%
+KNN Classifier Accuracy with k=6: 33.33%
+KNN Classifier Accuracy with k=7: 33.33%
+
+Best k: 1 with Accuracy: 50.00%
+
+Max Depth Tried: 1, Actual Depth: 1, Accuracy: 50.00%
+Max Depth Tried: 2, Actual Depth: 1, Accuracy: 50.00%
+
+Max Possible Depth is: 1
+
+Best Depth: 1 with Accuracy: 50.00%
+
+Linear Regression Classification MSE: 2.37
+Rounded Linear Regression Classification Accuracy: 50.00%
+Logistic Regression Accuracy: 83.33%
+Decision Tree Classification Accuracy: 50.00%
+KNN Classification Accuracy: 50.00%
+Bayessian Classifier Accuracy: 83.33%
+
+# Robot Execution Failures (LP3)
+
+KNN Classifier Accuracy with k=1: 42.86%
+KNN Classifier Accuracy with k=2: 42.86%
+KNN Classifier Accuracy with k=3: 42.86%
+KNN Classifier Accuracy with k=4: 14.29%
+KNN Classifier Accuracy with k=5: 28.57%
+KNN Classifier Accuracy with k=6: 28.57%
+KNN Classifier Accuracy with k=7: 28.57%
+
+Best k: 1 with Accuracy: 42.86%
+
+Max Depth Tried: 1, Actual Depth: 1, Accuracy: 28.57%
+Max Depth Tried: 2, Actual Depth: 2, Accuracy: 57.14%
+Max Depth Tried: 3, Actual Depth: 2, Accuracy: 57.14%
+
+Max Possible Depth is: 2
+
+Best Depth: 2 with Accuracy: 57.14%
+
+Linear Regression Classification MSE: 1.60
+Rounded Linear Regression Classification Accuracy: 28.57%
+Logistic Regression Accuracy: 71.43%
+Decision Tree Classification Accuracy: 57.14%
+KNN Classification Accuracy: 42.86%
+Bayessian Classifier Accuracy: 100.00%
+
+
+# Robot Execution Failures (LP4)
+
+KNN Classifier Accuracy with k=1: 85.00%
+KNN Classifier Accuracy with k=2: 80.00%
+KNN Classifier Accuracy with k=3: 80.00%
+KNN Classifier Accuracy with k=4: 80.00%
+KNN Classifier Accuracy with k=5: 80.00%
+KNN Classifier Accuracy with k=6: 75.00%
+KNN Classifier Accuracy with k=7: 80.00%
+
+Best k: 1 with Accuracy: 85.00%
+
+Max Depth Tried: 1, Actual Depth: 1, Accuracy: 70.00%
+Max Depth Tried: 2, Actual Depth: 2, Accuracy: 80.00%
+Max Depth Tried: 3, Actual Depth: 3, Accuracy: 85.00%
+Max Depth Tried: 4, Actual Depth: 3, Accuracy: 85.00%
+
+Max Possible Depth is: 3
+
+Best Depth: 3 with Accuracy: 85.00%
+
+Linear Regression Classification MSE: 0.70
+Rounded Linear Regression Classification Accuracy: 30.00%
+Logistic Regression Accuracy: 75.00%
+Decision Tree Classification Accuracy: 85.00%
+KNN Classification Accuracy: 85.00%
+Bayessian Classifier Accuracy: 100.00%
+
+# Robot Execution Failures (LP5)
+
+KNN Classifier Accuracy with k=1: 85.71%
+KNN Classifier Accuracy with k=2: 71.43%
+KNN Classifier Accuracy with k=3: 71.43%
+KNN Classifier Accuracy with k=4: 71.43%
+KNN Classifier Accuracy with k=5: 71.43%
+KNN Classifier Accuracy with k=6: 71.43%
+KNN Classifier Accuracy with k=7: 71.43%
+
+Best k: 1 with Accuracy: 85.71%
+
+Max Depth Tried: 1, Actual Depth: 1, Accuracy: 64.29%
+Max Depth Tried: 2, Actual Depth: 2, Accuracy: 78.57%
+Max Depth Tried: 3, Actual Depth: 3, Accuracy: 78.57%
+Max Depth Tried: 4, Actual Depth: 4, Accuracy: 85.71%
+Max Depth Tried: 5, Actual Depth: 4, Accuracy: 85.71%
+
+Max Possible Depth is: 4
+
+Best Depth: 4 with Accuracy: 85.71%
+
+Linear Regression Classification MSE: 0.57
+Rounded Linear Regression Classification Accuracy: 57.14%
+Logistic Regression Accuracy: 78.57%
+Decision Tree Classification Accuracy: 85.71%
+KNN Classification Accuracy: 85.71%
+Bayessian Classifier Accuracy: 78.57%
+
+
+# Spambase
+
+KNN Classifier Accuracy with k=1: 90.45%
+KNN Classifier Accuracy with k=2: 88.38%
+KNN Classifier Accuracy with k=3: 89.47%
+KNN Classifier Accuracy with k=4: 89.14%
+KNN Classifier Accuracy with k=5: 89.90%
+KNN Classifier Accuracy with k=6: 89.69%
+KNN Classifier Accuracy with k=7: 89.47%
+
+Best k: 1 with Accuracy: 90.45%
+
+Max Depth Tried: 1, Actual Depth: 1, Accuracy: 78.72%
+Max Depth Tried: 2, Actual Depth: 2, Accuracy: 80.02%
+Max Depth Tried: 3, Actual Depth: 3, Accuracy: 86.21%
+Max Depth Tried: 4, Actual Depth: 4, Accuracy: 89.03%
+Max Depth Tried: 5, Actual Depth: 5, Accuracy: 89.58%
+Max Depth Tried: 6, Actual Depth: 6, Accuracy: 89.79%
+Max Depth Tried: 7, Actual Depth: 7, Accuracy: 90.23%
+Max Depth Tried: 8, Actual Depth: 8, Accuracy: 91.10%
+Max Depth Tried: 9, Actual Depth: 9, Accuracy: 90.99%
+Max Depth Tried: 10, Actual Depth: 10, Accuracy: 91.31%
+Max Depth Tried: 11, Actual Depth: 11, Accuracy: 90.99%
+Max Depth Tried: 12, Actual Depth: 12, Accuracy: 91.21%
+Max Depth Tried: 13, Actual Depth: 13, Accuracy: 92.51%
+Max Depth Tried: 14, Actual Depth: 14, Accuracy: 91.97%
+Max Depth Tried: 15, Actual Depth: 15, Accuracy: 92.18%
+Max Depth Tried: 16, Actual Depth: 16, Accuracy: 91.86%
+Max Depth Tried: 17, Actual Depth: 17, Accuracy: 91.97%
+Max Depth Tried: 18, Actual Depth: 18, Accuracy: 91.64%
+Max Depth Tried: 19, Actual Depth: 19, Accuracy: 91.75%
+Max Depth Tried: 20, Actual Depth: 20, Accuracy: 91.75%
+Max Depth Tried: 21, Actual Depth: 20, Accuracy: 91.75%
+
+Max Possible Depth is: 20
+
+Best Depth: 13 with Accuracy: 92.51%
+
+
+Linear Regression Classification MSE: 0.17
+Rounded Linear Regression Classification Accuracy: 78.18%
+Logistic Regression Accuracy: 90.77%
+Decision Tree Classification Accuracy: 92.51%
+KNN Classification Accuracy: 90.45%
+Bayessian Classifier Accuracy: 81.11%
